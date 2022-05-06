@@ -1,0 +1,6 @@
+[submodule "redive_cn_master_db_diff"]
+	path = redive_cn_master_db_diff
+	url = https://github.com/paulzzh/redive_cn_master_db_diff.git
+[submodule "redive_master_db_diff"]
+	path = redive_master_db_diff
+	url = https://github.com/esterTion/redive_master_db_diff.git
